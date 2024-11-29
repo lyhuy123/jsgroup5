@@ -3,7 +3,7 @@ function func(){
     var pass = document.getElementById('password').value;
     if (email == 'we are group6' && pass == '04122024'){
         alert("Login Success Full !")
-        window.location.assign("book.html")
+        window.location.assign("https://lyhuy123.github.io/group6/")
     }
     else{
         alert('Wrong Passwords')
