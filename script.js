@@ -1,7 +1,7 @@
 function func(){
     var email = document.getElementById("user").value;
     var pass = document.getElementById('password').value;
-    if (email == 'we are group6' && pass == '04122024'){
+    if (email == 'we are group5' && pass == '04122024'){
         alert("Login Success Full !")
         window.location.assign("https://lyhuy123.github.io/group6/")
     }
